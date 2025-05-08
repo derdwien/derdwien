@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Dylan Erdwien ヾ(＾∇＾)
 
 <!--
 **derdwien/derdwien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Dylan Erdwien! I'm a front-end developer and project manager passionate about designing and building fun, aesthetic and memorable user interfaces. I am a Fort Hays Tech 2025 graduate, where I earned my associstes in app Development and emerging technologies and my app aevelopment with swift certification. I enjoy using design sites such as Figma, Canva and Photoshop. I have expertise in project management sites such as Azure, Trello and Jira and front end development tools such as Tailwind, React and VS Code.
+
+Interests: designing websites on figma, meeting and talking to new people and doggos! 
+
+
+Contact: www.linkedin.com/in/dylan-erdwien-697951307
